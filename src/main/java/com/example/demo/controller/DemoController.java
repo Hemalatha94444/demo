@@ -19,4 +19,8 @@ public String greeting() {
 public String hello() {
 	return "HELLO TO DEMO APPLICATION...";
 }
+@GetMapping("/hi")
+public String hi() {
+	return "HI TO DEMO APPLICATION...";
+}
 }
