@@ -23,7 +23,7 @@ public String hello() {
 public String hi() {
 	return "HI TO DEMO APPLICATION...";
 }
-
+//sample
 //@GetMapping("/hi")
 //public String hi() {
 //	return "HI TO DEMO APPLICATION...";
